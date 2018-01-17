@@ -1,0 +1,9 @@
+C:\Users\MERTCANALPARSLAN\Desktop\Nodepad\Nodepad\bin\Debug\Nodepad.exe.config
+C:\Users\MERTCANALPARSLAN\Desktop\Nodepad\Nodepad\bin\Debug\Nodepad.exe
+C:\Users\MERTCANALPARSLAN\Desktop\Nodepad\Nodepad\bin\Debug\Nodepad.pdb
+C:\Users\MERTCANALPARSLAN\Desktop\Nodepad\Nodepad\obj\Debug\Nodepad.Form1.resources
+C:\Users\MERTCANALPARSLAN\Desktop\Nodepad\Nodepad\obj\Debug\Nodepad.Properties.Resources.resources
+C:\Users\MERTCANALPARSLAN\Desktop\Nodepad\Nodepad\obj\Debug\Nodepad.csproj.GenerateResource.Cache
+C:\Users\MERTCANALPARSLAN\Desktop\Nodepad\Nodepad\obj\Debug\Nodepad.exe
+C:\Users\MERTCANALPARSLAN\Desktop\Nodepad\Nodepad\obj\Debug\Nodepad.pdb
+C:\Users\MERTCANALPARSLAN\Desktop\Nodepad\Nodepad\obj\Debug\Nodepad.csprojResolveAssemblyReference.cache
